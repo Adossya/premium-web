@@ -118,7 +118,7 @@ legend {
 
 @font-face {
   font-family: "Gilroy";
-  src: url("/fonts/Gilroy-Light.otf") format("opentype");
+  src: url("../fonts/Gilroy-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
